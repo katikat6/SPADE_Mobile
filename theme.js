@@ -1,0 +1,15 @@
+export const COLORS = {
+  darkBrown: '#3D261C',
+  creamBg: '#FAF6F0',
+  cardBg: '#F4EAE0',
+  cardBorder: '#DECBB7',
+  primaryGreen: '#38763B',
+  optimalBg: '#E6F4EA',
+  optimalText: '#2E7D32',
+  acidicRed: '#8B1E1E',
+  acidicBg: '#FCE8E6',
+  acidicText: '#C62828',
+  textDark: '#2C1A11',
+  textMuted: '#7A685D',
+  white: '#FFFFFF',
+};
